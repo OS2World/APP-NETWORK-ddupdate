@@ -1,0 +1,25 @@
+        Archive Filename: ddupdate.zip
+       Short Description: Updates a dynamic host on DNSdynamic.org
+        Long Description: Gets the external IP address, checks it against the given host, and
+                          updates DNSdynamic.org if necessary.
+
+      Proposed directory
+           for placement: /pub/os2/apps/internet/dynip
+
+               Your name: David Azarewicz
+           Email address: david@88watts.net
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: http://www.88watts.net
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version:
+ Additional requirements:
+
+                Replaces: (none)
+
+
+
